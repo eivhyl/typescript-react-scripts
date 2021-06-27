@@ -45,7 +45,7 @@
         "@types/mini-css-extract-plugin": "latest",
         "@types/node": "^10.1.3",
         "@types/pixelmatch": "^4.0.0",
-        "@types/pngjs": "^3.3.2",
+        "@types/pngjs": "^6.0.0",
         "@types/react": "*",
         "@types/react-dom": "*",
         "@types/react-redux": "^7.1.1",
